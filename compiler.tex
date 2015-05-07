@@ -105,11 +105,11 @@ bottom=20mm,
 		\end{center}
 	\end{titlepage}
 	
+	\setcounter{page}{3}
 	\tableofcontents
 	
-	\thispagestyle{empty} 
+	%\thispagestyle{empty} 
 	\pagebreak
-	
 	
 	
 	\section*{Введение}
@@ -131,15 +131,23 @@ bottom=20mm,
 		%\label{sec:qtquick}
 		%\addcontentsline{toc}{subsubsection}{\nameref{sec:qtquick}}
 
+Пользовательские интерфейсы разработанные в Qt Quick создаются как прямоугольные элементы в визуальном дереве. Технология ограничена набором элементов сфокусированных на взаимодействии через прикосновения и жесты. Qt Quick вводит новую концепцию логики моделирования приложений, используя иерархическую машину состояний. Кроме того, переходы и богатый набор анимаций (tweens) облегчают создание богатых пользовательских интерфейсов.
+
+Большой проблемой для дизайнеров было участие в процессе разработки с Qt и C++. C, в конце концов, является языком низкого уровня ориентированным на системное программирование. Qt Quick был разработан с нуля, чтобы заполнить этот пробел. Как предметно-ориентированный язык он специально ориентирован на создание пользовательских интерфейсов. Это устанавливает декларативный слой поверх JavaScript, который похож на каскадные таблицы стилей (CSS). В Qt не будут беспокоить приведение типов, указатели и время жизни объектов. Вместо этого, в центре внимания находится создание богатых пользовательских интерфейсов. 		
+		
 		\subsubsection*{Java Swing}
 	    %\label{sec:javaswing}
 		%\addcontentsline{toc}{subsubsection}{\nameref{sec:javaswing}}
 				
+				Компания Sun разработала набор графических компонентов под названием Swing. Компоненты Swing полностью написаны на Java. Для отрисовки используется 2D, что принесло с собой сразу несколько преимуществ. На Swing легко создавать новые компоненты, наследуясь от существующих. Стала возможной поддержка различных стилей и скинов. 
+
+Благодаря простоте использования, богатой документации и гибкости компонентов Swing стал, пожалуй, самым популярным графическим фреймворком в Java. На его базе появилось много расширений, таких как SwingX, JGoodies, которые значительно упрощают создание сложных пользовательских интерфейсов. Практически все популярные среды программирования Java включают графические редакторы для Swing-форм, что облегчает освоение Swing.
 		\subsubsection*{Недостатки существующих решений }
 		%\label{sec:decisions}
 		%\addcontentsline{toc}{subsubsection}{\nameref{sec:decisions}}
 	
-		
+		К недостаткам Swing можно отнести медленную работу при окнах с большим количеством элементов.
+		 
 	\subsection{Описание используемых инструментов }
 		
 		\subsubsection*{JVM}
@@ -175,7 +183,7 @@ bottom=20mm,
 	\pagebreak
 	\section{Примитивы графической библиотеки}
 	\subsection*{Структура графических примитивов}
-		Ктб графческая библиотеки языка PostScript содержится в файле  glib.ps. В нем создается словарь gelements. У каждого примитива есть свой номер, по которому он хранится в словаре gelements. 
+		Код графческой библиотеки языка PostScript содержится в файле  glib.ps. В нем создается словарь gelements. У каждого примитива есть свой номер, по которому он хранится в словаре gelements. 
 		
 		У графических примитивов реализовано отношение наследования. Общий предок у всех - объект сцена (scene). У каждого примитива есть дети-примитивы. Номера детей хранятся в поле-массиве children.
 		
@@ -314,9 +322,85 @@ bottom=20mm,
 	К оконному менеджеру можно добавить процедуры PostScript для отображения визуальных эффектов. В частности, сейчас добавлено событие волна: при нажатии правой кнопки мыши происходит эффект волны. 
 	\pagebreak
 	\section{Тестирование и демонстрационный пример}
+	Ниже приведен демонстрационный пример, содержащий в себе примитивы.
+ \linebreak
 
-	\pagebreak
+	\lstset{language=PostScript}          % Set your language (you can change the language for each code-block optionally)
+
+\begin{lstlisting}[frame=single]  % Start your code-block
+
+(graphicsEngine/basics/glib.ps) (r) file run
+
+300 750 250 50 (Welcome! )  scene << >>    labelField pop
+150 700 250 50 (Fill in this form, please. )  scene << >>    labelField pop
+
+30 555 250 35 (Your name )  scene << >>    labelField pop
+175 550 300 35  (TextField)    scene <<>>    textField pop
+
+30 505 250 35 (Group )  scene << >>    labelField pop
+175 500 100 35  (TextField)    scene <<>>    textField pop
+
+30 435 250 35 (Education )  scene << >>    labelField pop
+215 430 100 50 [ (Full-time) (Part-time) ] 1 scene << >> listBox pop
+
+30 365 250 35 (Faculty )  scene << >>    labelField pop
+200 365 350 30 [(Mathematics and Mechanics) (Physics) (Applied Mathematics) 
+                 (Chemistry) ] 0  scene <<  >> comboBox pop
+
+190 300 16  ( I want to get results)   scene << >> checkBox pop
+
+30 105 250 35 (Error checking)  scene << >>    labelField pop
+50 40 116 50 (On) (Off)  scene <<  >> toggleButton pop
+
+500 25 120 40   (close) scene <</CLICK [{
+
+  /messageWindow    370 140 250 150  scene << >> window def
+  messageWindow /wLabel get /label (message) put
+  390 215 250 30 (Do you want to save? )  messageWindow << >>    labelField pop
+  430 165 50 25   (yes) messageWindow <</CLICK [{pop quit}[]] >>  button pop
+  500 165 50 25   (no)  messageWindow 
+  <</CLICK [{/CLOSE findAncestorWithEventType}[]] >> button pop 
+                                
+                                }[]] >> button pop
+repaintAll
+showpage
+\end{lstlisting}
+	В начале подключается библиотека графчиеской библиотеки. 
+	Затем создается надпись "Welcome!" и "Fill in this form, please."
 	
+	После этого создаются напдись "Your name" и поле для ввода своего имени.
+	
+	Также вызывается контсруктор для надписи "Group" и поле для ввода номера своей группы. 
+	
+	Затем создается надпись "Education" и список для выбора формы обучения.
+	
+	Аналогично с надписью "Faculty" и полем со списком для выбора факультета.
+	
+	Ниже создается флажок с текстом "I want to get results" для подтверждения того, что пользователь хочет получить результат.
+	
+	После этого создается надпись "Error checking" и радиокнопка с надписями On и Off. 
+	
+	В конце создается кнопка Close, при нажатии которой появляется окно с вопрос, хочет ли пользователь сохранить результат.
+	
+	\begin{figure}[h]
+		\begin{center}
+		\begin{minipage}[h]{0.4\linewidth}
+		\includegraphics[width=230pt]{pictures/demo11.png}
+		\caption{ Пустая форма} %% подпись к рисунку
+		\label{ris:demo1} %% метка рисунка для ссылки на него
+		\end{minipage}
+		\hfill 
+		\begin{minipage}[h]{0.4\linewidth}
+		\includegraphics[width=230pt]{pictures/demo12.png}
+		\caption{Заполненная форма}
+		\label{ris:demo2}
+		\end{minipage}
+		\end{center}
+		\end{figure}
+		
+	Код программы можно посмотреть в Приложении1.
+	
+	\pagebreak
 	\section*{Заключение}
 	\addcontentsline{toc}{section}{Заключение}
 	
