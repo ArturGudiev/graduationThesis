@@ -1,0 +1,802 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.21)  3 JUN 2015 10:06
+entering extended mode
+**wm*and*GUI*primitives.tex
+("C:\Artur\University\Diploma\compiler_new\wm and GUI primitives.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\extsizes\extarticle.cls"
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\extsizes\size14.clo"
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\exscale.sty"
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count91
+\uc@combtoks=\toks18
+\uc@combtoksb=\toks19
+\uc@temptokena=\toks20
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\russianb.ldf"
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count92
+\U@D=\dimen114
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+Package babel Info: Making " an active character on input line 199.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count93
+\float@exts=\toks21
+\float@box=\box26
+\@float@everytoks=\toks22
+\@floatcapt=\box27
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count94
+\lst@gtempboxa=\box28
+\lst@token=\toks23
+\lst@length=\count95
+\lst@currlwidth=\dimen115
+\lst@column=\count96
+\lst@pos=\count97
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count98
+\lst@lineno=\count99
+\lst@maxwidth=\dimen118
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count100
+\lst@skipnumbers=\count101
+\lst@framebox=\box29
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen119
+\Hy@linkcounter=\count102
+\Hy@pagecounter=\count103
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count104
+Package hyperref Info: Option `unicode' set `true' on input line 3411.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count105
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen120
+\Fld@menulength=\count106
+\Field@Width=\dimen121
+\Fld@charsize=\dimen122
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count107
+\c@Item=\count108
+\c@Hfootnote=\count109
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count110
+\c@bookmark@seq@number=\count111
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count112
+)
+\etb@tempcnta=\count113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithm2e\algorithm2e.sty"
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count114
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip44
+\skiplinenumber=\skip45
+\skiprule=\skip46
+\skiphlne=\skip47
+\skiptext=\skip48
+\skiplength=\skip49
+\algomargin=\skip50
+\skipalgocfslide=\skip51
+\algowidth=\dimen123
+\inoutsize=\dimen124
+\inoutindent=\dimen125
+\interspacetitleruled=\dimen126
+\interspacealgoruled=\dimen127
+\interspacetitleboxruled=\dimen128
+\algocf@inoutbox=\box30
+\algocf@inputbox=\box31
+\AlCapSkip=\skip52
+\AlCapHSkip=\skip53
+\algoskipindent=\skip54
+\algocf@nlbox=\box32
+\algocf@hangingbox=\box33
+\algocf@untilbox=\box34
+\algocf@skipuntil=\skip55
+\algocf@capbox=\box35
+\algoheightruledefault=\skip56
+\algoheightrule=\skip57
+\algotitleheightruledefault=\skip58
+\algotitleheightrule=\skip59
+\c@algocfline=\count115
+\c@algocfproc=\count116
+\c@algocf=\count117
+\algocf@algoframe=\box36
+\algocf@algobox=\box37
+) ("C:\Artur\University\Diploma\compiler_new\wm and GUI primitives.aux"
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 20.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Warning: Label `ris:b1' multiply defined.
+
+
+LaTeX Warning: Label `ris:b2' multiply defined.
+
+
+LaTeX Warning: Label `ris:b1' multiply defined.
+
+
+LaTeX Warning: Label `ris:b2' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+
+LaTeX Warning: Label `ris:b1' multiply defined.
+
+
+LaTeX Warning: Label `ris:b2' multiply defined.
+
+
+LaTeX Warning: Label `ris:image' multiply defined.
+
+
+LaTeX Warning: Label `ris:demo1' multiply defined.
+
+
+LaTeX Warning: Label `ris:demo2' multiply defined.
+
+
+LaTeX Warning: Label `ris:demo1' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 500.484pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-54.36449pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=24.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen129
+\scratchbox=\box38
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen130
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks25
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+\c@lstlisting=\count124
+\AtBeginShipoutBox=\box39
+Package hyperref Info: Link coloring OFF on input line 43.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count125
+)
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+
+("C:\Artur\University\Diploma\compiler_new\wm and GUI primitives.out")
+("C:\Artur\University\Diploma\compiler_new\wm and GUI primitives.out")
+\@outlinefile=\write3
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-4.def"
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]pdfTeX warning (ext4): des
+tination with the same identifier (name{page.1}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.106 	\end{titlepage}
+                       [1]
+("C:\Artur\University\Diploma\compiler_new\wm and GUI primitives.toc"
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 4.
+)
+\tf@toc=\write4
+ [3]
+Overfull \hbox (10.28447pt too wide) in paragraph at lines 121--124
+\T2A/cmr/m/n/14.4 ми-ти-вов недо-ста-точ-но. Тре-бу-ет-ся так-же окон-ный ме-не
+-джер --- при-ло-же-ние, управ-
+ []
+
+[4] [5] [6] [7]
+Overfull \hbox (33.11517pt too wide) in paragraph at lines 181--181
+[] \T2A/cmr/bx/n/17.28 Про-ект по раз-ра-бот-ке гра-фи-че-ской биб-лио-те-ки Po
+stScript 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 186.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
+ [8] [9]
+Overfull \hbox (7.8584pt too wide) in paragraph at lines 196--197
+\T2A/cmr/m/n/14.4 пре-док у всех --- объ-ект сце-на (scene). У каж-до-го при-ми
+-ти-ва есть дети-примитивы.
+ []
+
+
+Overfull \hbox (9.31076pt too wide) in paragraph at lines 205--206
+\T2A/cmr/m/n/14.4 жет быть несколь-ко. У каж-до-го гра-фи-че-ско-го объ-ек-та е
+сть сло-варь eventProcDict,
+ []
+
+[10] <pictures/close1.png, id=169, 103.88812pt x 44.41594pt>
+File: pictures/close1.png Graphic file (type png)
+
+<use pictures/close1.png>
+Package pdftex.def Info: pictures/close1.png used on input line 216.
+(pdftex.def)             Requested size: 180.0pt x 76.9659pt.
+
+<pictures/close2.png, id=171, 97.86563pt x 39.14626pt>
+File: pictures/close2.png Graphic file (type png)
+
+<use pictures/close2.png>
+Package pdftex.def Info: pictures/close2.png used on input line 222.
+(pdftex.def)             Requested size: 180.0pt x 72.00427pt.
+
+<pictures/checkBox1.png, id=172, 200.75pt x 51.19125pt>
+File: pictures/checkBox1.png Graphic file (type png)
+
+<use pictures/checkBox1.png>
+Package pdftex.def Info: pictures/checkBox1.png used on input line 236.
+(pdftex.def)             Requested size: 150.0pt x 38.25273pt.
+
+<pictures/checkBox2.png, id=173, 192.72pt x 45.16875pt>
+File: pictures/checkBox2.png Graphic file (type png)
+
+<use pictures/checkBox2.png>
+Package pdftex.def Info: pictures/checkBox2.png used on input line 242.
+(pdftex.def)             Requested size: 150.0pt x 35.15634pt.
+ [11 <C:/Artur/University/Diploma/compiler_new/pictures/close1.png> <C:/Artur/U
+niversity/Diploma/compiler_new/pictures/close2.png> <C:/Artur/University/Diplom
+a/compiler_new/pictures/checkBox1.png> <C:/Artur/University/Diploma/compiler_ne
+w/pictures/checkBox2.png>]
+<pictures/comboBox1.png, id=186, 225.84375pt x 45.16875pt>
+File: pictures/comboBox1.png Graphic file (type png)
+
+<use pictures/comboBox1.png>
+Package pdftex.def Info: pictures/comboBox1.png used on input line 257.
+(pdftex.def)             Requested size: 180.0pt x 36.00201pt.
+
+<pictures/comboBox2.png, id=187, 225.84375pt x 143.53625pt>
+File: pictures/comboBox2.png Graphic file (type png)
+
+<use pictures/comboBox2.png>
+Package pdftex.def Info: pictures/comboBox2.png used on input line 263.
+(pdftex.def)             Requested size: 180.0pt x 114.40643pt.
+
+<pictures/listBox.png, id=188, 161.85469pt x 76.78688pt>
+File: pictures/listBox.png Graphic file (type png)
+
+<use pictures/listBox.png>
+Package pdftex.def Info: pictures/listBox.png used on input line 273.
+(pdftex.def)             Requested size: 180.0pt x 85.4008pt.
+
+<pictures/label.png, id=189, 205.5178pt x 41.4047pt>
+File: pictures/label.png Graphic file (type png)
+ <use pictures/label.png>
+Package pdftex.def Info: pictures/label.png used on input line 281.
+(pdftex.def)             Requested size: 180.0pt x 36.26375pt.
+
+[12 <C:/Artur/University/Diploma/compiler_new/pictures/comboBox1.png> <C:/Artur
+/University/Diploma/compiler_new/pictures/comboBox2.png> <C:/Artur/University/D
+iploma/compiler_new/pictures/listBox.png>]
+<pictures/textField.png, id=200, 389.95688pt x 51.94406pt>
+File: pictures/textField.png Graphic file (type png)
+
+<use pictures/textField.png>
+Package pdftex.def Info: pictures/textField.png used on input line 291.
+(pdftex.def)             Requested size: 180.0pt x 23.97697pt.
+
+<pictures/toggleButton1.png, id=201, 132.495pt x 62.2325pt>
+File: pictures/toggleButton1.png Graphic file (type png)
+
+<use pictures/toggleButton1.png>
+Package pdftex.def Info: pictures/toggleButton1.png used on input line 302.
+(pdftex.def)             Requested size: 90.0pt x 42.2729pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--303
+[]\T2A/cmr/m/n/14.4 Рис. 10: [] Вклю-чен-ная ра-
+ []
+
+<pictures/toggleButton2.png, id=202, 137.51375pt x 74.2775pt>
+File: pictures/toggleButton2.png Graphic file (type png)
+
+<use pictures/toggleButton2.png>
+Package pdftex.def Info: pictures/toggleButton2.png used on input line 308.
+(pdftex.def)             Requested size: 90.0pt x 48.61414pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+[]\T2A/cmr/m/n/14.4 Рис. 11: []Выключенная ра-
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13 <C:/Artur/University/Diploma/compiler_new/pictures/label.png> <C:/Artur/Uni
+versity/Diploma/compiler_new/pictures/textField.png>] [14 <C:/Artur/University/
+Diploma/compiler_new/pictures/toggleButton1.png> <C:/Artur/University/Diploma/c
+ompiler_new/pictures/toggleButton2.png>]
+<pictures/windowManager.png, id=220, 754.82pt x 270.00874pt>
+File: pictures/windowManager.png Graphic file (type png)
+
+<use pictures/windowManager.png>
+Package pdftex.def Info: pictures/windowManager.png used on input line 328.
+(pdftex.def)             Requested size: 500.0pt x 178.85727pt.
+
+Underfull \hbox (badness 1418) in paragraph at lines 334--335
+\T2A/cmr/m/n/14.4 варь, в ко-то-ром хра-нят-ся па-ра-мет-ры при-ми-ти-ва, и вы-
+зы-ва-ет про-це-ду-ру
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+\T2A/cmr/m/n/14.4 ле-ния при-мит-ва пред-на-зна-че-ны прод-це-ду-ры deleteWithC
+hildren и
+ []
+
+[15 <C:/Artur/University/Diploma/compiler_new/pictures/windowManager.png>]
+Overfull \hbox (5.90062pt too wide) in paragraph at lines 340--341
+\T2A/cmr/m/n/14.4 glib.ps в сло-ва-ре gelements со-зда-ют-ся эле-мен-ты resizin
+gElement и draggingElement,
+ []
+
+[16]
+Overfull \hbox (2.50514pt too wide) in paragraph at lines 346--347
+[]\T2A/cmr/m/n/14.4 При неко-то-рых со-бы-ти-ях из-ме-ня-ет-ся внеш-ний вид при
+-ми-ти-вов, по-это-му нуж-
+ []
+
+[17] <pictures/demo11.png, id=236, 654.445pt x 872.25874pt>
+File: pictures/demo11.png Graphic file (type png)
+
+<use pictures/demo11.png>
+Package pdftex.def Info: pictures/demo11.png used on input line 369.
+(pdftex.def)             Requested size: 230.0pt x 306.54623pt.
+
+Overfull \hbox (29.80946pt too wide) in paragraph at lines 369--370
+[][] 
+ []
+
+<pictures/demo12.png, id=237, 653.44125pt x 876.27374pt>
+File: pictures/demo12.png Graphic file (type png)
+
+<use pictures/demo12.png>
+Package pdftex.def Info: pictures/demo12.png used on input line 375.
+(pdftex.def)             Requested size: 230.0pt x 308.42523pt.
+
+Overfull \hbox (29.80946pt too wide) in paragraph at lines 375--376
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18] [19 <C:/Artur/University/Diploma/compiler_new/pictures/demo11.png> <C:/Art
+ur/University/Diploma/compiler_new/pictures/demo12.png>]
+<pictures/demo21.png, id=251, 654.445pt x 870.25125pt>
+File: pictures/demo21.png Graphic file (type png)
+
+<use pictures/demo21.png>
+Package pdftex.def Info: pictures/demo21.png used on input line 400.
+(pdftex.def)             Requested size: 230.0pt x 305.84071pt.
+
+Overfull \hbox (29.80946pt too wide) in paragraph at lines 400--401
+[][] 
+ []
+
+<pictures/demo23.png, id=252, 654.445pt x 876.27374pt>
+File: pictures/demo23.png Graphic file (type png)
+
+<use pictures/demo23.png>
+Package pdftex.def Info: pictures/demo23.png used on input line 406.
+(pdftex.def)             Requested size: 230.0pt x 307.95726pt.
+
+Overfull \hbox (29.80946pt too wide) in paragraph at lines 406--407
+[][] 
+ []
+
+[20 <C:/Artur/University/Diploma/compiler_new/pictures/demo21.png> <C:/Artur/Un
+iversity/Diploma/compiler_new/pictures/demo23.png>]
+<pictures/automate.png, id=261, 520.94624pt x 359.3425pt>
+File: pictures/automate.png Graphic file (type png)
+
+<use pictures/automate.png>
+Package pdftex.def Info: pictures/automate.png used on input line 427.
+(pdftex.def)             Requested size: 240.0pt x 165.5463pt.
+
+Overfull \hbox (39.80946pt too wide) in paragraph at lines 427--428
+[][] 
+ []
+
+<pictures/filledCalc.png, id=262, 656.4525pt x 873.2625pt>
+File: pictures/filledCalc.png Graphic file (type png)
+
+<use pictures/filledCalc.png>
+Package pdftex.def Info: pictures/filledCalc.png used on input line 442.
+(pdftex.def)             Requested size: 220.0pt x 292.65468pt.
+
+Overfull \hbox (19.80946pt too wide) in paragraph at lines 442--443
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21 <C:/Artur/University/Diploma/compiler_new/pictures/automate.png>] [22 <C:/A
+rtur/University/Diploma/compiler_new/pictures/filledCalc.png>]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 473
+.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 2608) in paragraph at lines 479--481
+[]\T2A/cmr/m/n/14.4 Артур Гу-ди-ев. Ре-а-ли-за-ция гра-фи-че-ской ча-сти ин-тер
+-пре-та-то-ра язы-ка
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 502.
+[23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 502.
+ ("C:\Artur\University\Diploma\compiler_new\wm and GUI primitives.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 502.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 502.
+Package rerunfilecheck Info: File `wm*and*GUI*primitives.out' has not changed.
+(rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 502.
+ ) 
+Here is how much of TeX's memory you used:
+ 14312 strings out of 493921
+ 199944 string characters out of 3144879
+ 287125 words of memory out of 3000000
+ 17384 multiletter control sequences out of 15000+200000
+ 12642 words of font info for 29 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 29i,8n,32p,1728b,640s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lat
+t1440.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi
+600\lati1440.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-
+t2a\dpi600\labx1728.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\lh\lh-t2a\dpi600\larm2488.pk> <C:\Users\user\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\user\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "wm and GUI primitives.pdf" (23 pages, 346372 bytes).
+PDF statistics:
+ 770 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 243 words of extra memory for PDF output out of 10000 (max. 10000000)
+
