@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.21)  5 JUN 2015 15:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.12.6)  9 JUN 2015 14:32
 entering extended mode
 **wm*and*GUI*primitives.tex
-("C:\Artur\University\Diploma\wm and GUI primitives\wm and GUI primitives.tex"
+("E:\wm and GUI primitives\wm and GUI primitives.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
 croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
 ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
  lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
@@ -170,20 +170,20 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \lst@maxwidth=\dimen118
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
-File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 \c@lstnumber=\count100
 \lst@skipnumbers=\count101
 \lst@framebox=\box29
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
-File: listings.cfg 2014/03/04 1.5c listings configuration
+File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
-Package: listings 2014/03/04 1.5c (Carsten Heinz)
+Package: listings 2014/09/06 1.5e (Carsten Heinz)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 373.
-Package: cite 2010/09/10  v 5.3
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -262,9 +262,9 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count105
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen120
@@ -364,10 +364,10 @@ subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 \c@algocf=\count117
 \algocf@algoframe=\box36
 \algocf@algobox=\box37
-) ("C:\Artur\University\Diploma\wm and GUI primitives\wm and GUI primitives.aux
-"
+) ("E:\wm and GUI primitives\wm and GUI primitives.aux"
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 20.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -455,9 +455,10 @@ LaTeX Info: Redefining \ref on input line 43.
 LaTeX Info: Redefining \pageref on input line 43.
 LaTeX Info: Redefining \nameref on input line 43.
 
-("C:\Artur\University\Diploma\wm and GUI primitives\wm and GUI primitives.out")
-("C:\Artur\University\Diploma\wm and GUI primitives\wm and GUI primitives.out")
+("E:\wm and GUI primitives\wm and GUI primitives.out")
+("E:\wm and GUI primitives\wm and GUI primitives.out")
 \@outlinefile=\write3
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-4.def"
 File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
 )
@@ -471,19 +472,13 @@ te ignored
 <to be read again> 
                    \relax 
 l.106 	\end{titlepage}
-                       [1]
-("C:\Artur\University\Diploma\wm and GUI primitives\wm and GUI primitives.toc"
+                       [1] ("E:\wm and GUI primitives\wm and GUI primitives.toc
+"
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 4.
 )
 \tf@toc=\write4
-[3]
-Overfull \hbox (10.28447pt too wide) in paragraph at lines 121--124
-\T2A/cmr/m/n/14.4 ми-ти-вов недо-ста-точ-но. Тре-бу-ет-ся так-же окон-ный ме-не
--джер --- при-ло-же-ние, управ-
- []
-
-[4] [5] [6] [7]
+ [3] [4] [5] [6] [7]
 Overfull \hbox (33.11517pt too wide) in paragraph at lines 181--181
 [] \T2A/cmr/bx/n/17.28 Про-ект по раз-ра-бот-ке гра-фи-че-ской биб-лио-те-ки Po
 stScript 
@@ -497,158 +492,149 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
  [8] [9]
-Overfull \hbox (7.8584pt too wide) in paragraph at lines 198--199
+Overfull \hbox (7.85687pt too wide) in paragraph at lines 198--199
 \T2A/cmr/m/n/14.4 пре-док у всех --- объ-ект сце-на (scene). У каж-до-го при-ми
 -ти-ва есть дети-примитивы.
  []
 
-
-Overfull \hbox (9.31076pt too wide) in paragraph at lines 207--208
-\T2A/cmr/m/n/14.4 жет быть несколь-ко. У каж-до-го гра-фи-че-ско-го объ-ек-та е
-сть сло-варь eventProcDict,
- []
-
-[10] [11] <pictures/close1.png, id=185, 103.88812pt x 44.41594pt>
+[10] <pictures/close1.png, id=184, 103.88812pt x 44.41594pt>
 File: pictures/close1.png Graphic file (type png)
 
 <use pictures/close1.png>
-Package pdftex.def Info: pictures/close1.png used on input line 218.
+Package pdftex.def Info: pictures/close1.png used on input line 217.
 (pdftex.def)             Requested size: 180.0pt x 76.9659pt.
 
-<pictures/close2.png, id=187, 97.86563pt x 39.14626pt>
+<pictures/close2.png, id=186, 97.86563pt x 39.14626pt>
 File: pictures/close2.png Graphic file (type png)
 
 <use pictures/close2.png>
-Package pdftex.def Info: pictures/close2.png used on input line 224.
+Package pdftex.def Info: pictures/close2.png used on input line 223.
 (pdftex.def)             Requested size: 180.0pt x 72.00427pt.
 
-<pictures/checkBox1.png, id=190, 200.75pt x 51.19125pt>
+<pictures/checkBox1.png, id=189, 200.75pt x 51.19125pt>
 File: pictures/checkBox1.png Graphic file (type png)
 
 <use pictures/checkBox1.png>
-Package pdftex.def Info: pictures/checkBox1.png used on input line 238.
+Package pdftex.def Info: pictures/checkBox1.png used on input line 237.
 (pdftex.def)             Requested size: 150.0pt x 38.25273pt.
 
-<pictures/checkBox2.png, id=191, 192.72pt x 45.16875pt>
+<pictures/checkBox2.png, id=190, 192.72pt x 45.16875pt>
 File: pictures/checkBox2.png Graphic file (type png)
 
 <use pictures/checkBox2.png>
-Package pdftex.def Info: pictures/checkBox2.png used on input line 244.
+Package pdftex.def Info: pictures/checkBox2.png used on input line 243.
 (pdftex.def)             Requested size: 150.0pt x 35.15634pt.
- [12 <C:/Artur/University/Diploma/wm and GUI primitives/pictures/close1.png> <C
-:/Artur/University/Diploma/wm and GUI primitives/pictures/close2.png> <C:/Artur
-/University/Diploma/wm and GUI primitives/pictures/checkBox1.png> <C:/Artur/Uni
-versity/Diploma/wm and GUI primitives/pictures/checkBox2.png>] <pictures/comboB
-ox1.png, id=206, 225.84375pt x 45.16875pt>
+ [11 <E:/wm and GUI primitives/pictures/close1.png> <E:/wm and GUI primitives/p
+ictures/close2.png> <E:/wm and GUI primitives/pictures/checkBox1.png> <E:/wm an
+d GUI primitives/pictures/checkBox2.png>]
+<pictures/comboBox1.png, id=205, 225.84375pt x 45.16875pt>
 File: pictures/comboBox1.png Graphic file (type png)
 
 <use pictures/comboBox1.png>
-Package pdftex.def Info: pictures/comboBox1.png used on input line 259.
+Package pdftex.def Info: pictures/comboBox1.png used on input line 258.
 (pdftex.def)             Requested size: 180.0pt x 36.00201pt.
 
-<pictures/comboBox2.png, id=207, 225.84375pt x 143.53625pt>
+<pictures/comboBox2.png, id=206, 225.84375pt x 143.53625pt>
 File: pictures/comboBox2.png Graphic file (type png)
 
 <use pictures/comboBox2.png>
-Package pdftex.def Info: pictures/comboBox2.png used on input line 265.
+Package pdftex.def Info: pictures/comboBox2.png used on input line 264.
 (pdftex.def)             Requested size: 180.0pt x 114.40643pt.
 
-<pictures/listBox.png, id=209, 161.85469pt x 76.78688pt>
+<pictures/listBox.png, id=208, 161.85469pt x 76.78688pt>
 File: pictures/listBox.png Graphic file (type png)
 
 <use pictures/listBox.png>
-Package pdftex.def Info: pictures/listBox.png used on input line 275.
+Package pdftex.def Info: pictures/listBox.png used on input line 274.
 (pdftex.def)             Requested size: 180.0pt x 85.4008pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/label.png, id=211, 205.5178pt x 41.4047pt>
+<pictures/label.png, id=210, 205.5178pt x 41.4047pt>
 File: pictures/label.png Graphic file (type png)
  <use pictures/label.png>
-Package pdftex.def Info: pictures/label.png used on input line 283.
+Package pdftex.def Info: pictures/label.png used on input line 282.
 (pdftex.def)             Requested size: 180.0pt x 36.26375pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/textField.png, id=213, 389.95688pt x 51.94406pt>
+<pictures/textField.png, id=212, 389.95688pt x 51.94406pt>
 File: pictures/textField.png Graphic file (type png)
 
 <use pictures/textField.png>
-Package pdftex.def Info: pictures/textField.png used on input line 293.
+Package pdftex.def Info: pictures/textField.png used on input line 292.
 (pdftex.def)             Requested size: 180.0pt x 23.97697pt.
- [13 <C:/Artur/University/Diploma/wm and GUI primitives/pictures/comboBox1.png>
- <C:/Artur/University/Diploma/wm and GUI primitives/pictures/comboBox2.png>]
-<pictures/toggleButton1.png, id=227, 132.495pt x 62.2325pt>
+ [12 <E:/wm and GUI primitives/pictures/comboBox1.png> <E:/wm and GUI primitive
+s/pictures/comboBox2.png>]
+<pictures/toggleButton1.png, id=225, 132.495pt x 62.2325pt>
 File: pictures/toggleButton1.png Graphic file (type png)
 
 <use pictures/toggleButton1.png>
-Package pdftex.def Info: pictures/toggleButton1.png used on input line 304.
+Package pdftex.def Info: pictures/toggleButton1.png used on input line 303.
 (pdftex.def)             Requested size: 90.0pt x 42.2729pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
 []\T2A/cmr/m/n/14.4 Рис. 10: [] Вклю-чен-ная ра-
  []
 
-<pictures/toggleButton2.png, id=228, 137.51375pt x 74.2775pt>
+<pictures/toggleButton2.png, id=226, 137.51375pt x 74.2775pt>
 File: pictures/toggleButton2.png Graphic file (type png)
 
 <use pictures/toggleButton2.png>
-Package pdftex.def Info: pictures/toggleButton2.png used on input line 310.
+Package pdftex.def Info: pictures/toggleButton2.png used on input line 309.
 (pdftex.def)             Requested size: 90.0pt x 48.61414pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--311
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
 []\T2A/cmr/m/n/14.4 Рис. 11: []Выключенная ра-
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14 <C:/Artur/University/Diploma/wm and GUI primitives/pictures/listBox.png> <C
-:/Artur/University/Diploma/wm and GUI primitives/pictures/label.png> <C:/Artur/
-University/Diploma/wm and GUI primitives/pictures/textField.png>]
-<pictures/window.png, id=240, 500.87125pt x 477.785pt>
+[13 <E:/wm and GUI primitives/pictures/listBox.png> <E:/wm and GUI primitives/p
+ictures/label.png> <E:/wm and GUI primitives/pictures/textField.png>]
+<pictures/window.png, id=239, 500.87125pt x 477.785pt>
 File: pictures/window.png Graphic file (type png)
 
 <use pictures/window.png>
-Package pdftex.def Info: pictures/window.png used on input line 322.
+Package pdftex.def Info: pictures/window.png used on input line 321.
 (pdftex.def)             Requested size: 180.0pt x 171.70355pt.
- [15 <C:/Artur/University/Diploma/wm and GUI primitives/pictures/toggleButton1.
-png> <C:/Artur/University/Diploma/wm and GUI primitives/pictures/toggleButton2.
-png> <C:/Artur/University/Diploma/wm and GUI primitives/pictures/window.png>]
-<pictures/windowManager.png, id=250, 754.82pt x 270.00874pt>
-File: pictures/windowManager.png Graphic file (type png)
+ [14 <E:/wm and GUI primitives/pictures/toggleButton1.png> <E:/wm and GUI primi
+tives/pictures/toggleButton2.png> <E:/wm and GUI primitives/pictures/window.png
+>]
+<pictures/windowManager4.png, id=249, 616.3025pt x 446.66875pt>
+File: pictures/windowManager4.png Graphic file (type png)
 
-<use pictures/windowManager.png>
-Package pdftex.def Info: pictures/windowManager.png used on input line 334.
-(pdftex.def)             Requested size: 500.0pt x 178.85727pt.
+<use pictures/windowManager4.png>
+Package pdftex.def Info: pictures/windowManager4.png used on input line 333.
+(pdftex.def)             Requested size: 500.0pt x 362.38583pt.
 
-Underfull \hbox (badness 1418) in paragraph at lines 340--341
-\T2A/cmr/m/n/14.4 варь, в ко-то-ром хра-нят-ся па-ра-мет-ры при-ми-ти-ва, и вы-
-зы-ва-ет про-це-ду-ру
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 \T2A/cmr/m/n/14.4 ле-ния при-мит-ва пред-на-зна-че-ны прод-це-ду-ры deleteWithC
 hildren и
  []
 
-[16 <C:/Artur/University/Diploma/wm and GUI primitives/pictures/windowManager.p
-ng>]
-Overfull \hbox (5.90062pt too wide) in paragraph at lines 346--347
+[15 <E:/wm and GUI primitives/pictures/windowManager4.png>]
+Overfull \hbox (5.90062pt too wide) in paragraph at lines 345--346
 \T2A/cmr/m/n/14.4 glib.ps в сло-ва-ре gelements со-зда-ют-ся эле-мен-ты resizin
 gElement и draggingElement,
  []
 
-[17]
-Overfull \hbox (2.50514pt too wide) in paragraph at lines 352--353
+[16]
+Overfull \hbox (2.50514pt too wide) in paragraph at lines 351--352
 []\T2A/cmr/m/n/14.4 При неко-то-рых со-бы-ти-ях из-ме-ня-ет-ся внеш-ний вид при
 -ми-ти-вов, по-это-му нуж-
  []
 
-[18] <pictures/demo11.png, id=268, 654.445pt x 872.25874pt>
+[17]
+Overfull \hbox (3.05278pt too wide) in paragraph at lines 371--372
+[]\T2A/cmr/m/n/14.4 После это-го идет над-пись "Error checking"и ра-диокноп-ка 
+с над-пи-ся-ми "On"и
+ []
+
+<pictures/demo11.png, id=267, 654.445pt x 872.25874pt>
 File: pictures/demo11.png Graphic file (type png)
 
 <use pictures/demo11.png>
@@ -659,7 +645,7 @@ Overfull \hbox (29.80946pt too wide) in paragraph at lines 378--379
 [][] 
  []
 
-<pictures/demo12.png, id=269, 653.44125pt x 876.27374pt>
+<pictures/demo12.png, id=268, 653.44125pt x 876.27374pt>
 File: pictures/demo12.png Graphic file (type png)
 
 <use pictures/demo12.png>
@@ -673,9 +659,9 @@ Overfull \hbox (29.80946pt too wide) in paragraph at lines 384--385
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19] [20 <C:/Artur/University/Diploma/wm and GUI primitives/pictures/demo11.png
-> <C:/Artur/University/Diploma/wm and GUI primitives/pictures/demo12.png>]
-<pictures/demo21.png, id=286, 654.445pt x 870.25125pt>
+[18] [19 <E:/wm and GUI primitives/pictures/demo11.png> <E:/wm and GUI primitiv
+es/pictures/demo12.png>]
+<pictures/demo21.png, id=285, 654.445pt x 870.25125pt>
 File: pictures/demo21.png Graphic file (type png)
 
 <use pictures/demo21.png>
@@ -686,7 +672,7 @@ Overfull \hbox (29.80946pt too wide) in paragraph at lines 409--410
 [][] 
  []
 
-<pictures/demo23.png, id=287, 654.445pt x 876.27374pt>
+<pictures/demo23.png, id=286, 654.445pt x 876.27374pt>
 File: pictures/demo23.png Graphic file (type png)
 
 <use pictures/demo23.png>
@@ -697,9 +683,8 @@ Overfull \hbox (29.80946pt too wide) in paragraph at lines 415--416
 [][] 
  []
 
-[21 <C:/Artur/University/Diploma/wm and GUI primitives/pictures/demo21.png> <C:
-/Artur/University/Diploma/wm and GUI primitives/pictures/demo23.png>]
-<pictures/automate.png, id=296, 520.94624pt x 359.3425pt>
+[20 <E:/wm and GUI primitives/pictures/demo21.png> <E:/wm and GUI primitives/pi
+ctures/demo23.png>] <pictures/automate.png, id=295, 520.94624pt x 359.3425pt>
 File: pictures/automate.png Graphic file (type png)
 
 <use pictures/automate.png>
@@ -711,13 +696,13 @@ Overfull \hbox (39.80946pt too wide) in paragraph at lines 436--437
  []
 
 
-Overfull \hbox (2.61905pt too wide) in paragraph at lines 447--448
+Overfull \hbox (2.61752pt too wide) in paragraph at lines 447--448
 \T2A/cmr/m/n/14.4 integer). Ес-ли это воз-мож-но, то идет при-ве-де-ние ти-пов 
 (при-ве-де-ние real к integer).
  []
 
-[22 <C:/Artur/University/Diploma/wm and GUI primitives/pictures/automate.png>]
-<pictures/filledCalc.png, id=303, 656.4525pt x 873.2625pt>
+[21 <E:/wm and GUI primitives/pictures/automate.png>]
+<pictures/filledCalc.png, id=302, 656.4525pt x 873.2625pt>
 File: pictures/filledCalc.png Graphic file (type png)
 
 <use pictures/filledCalc.png>
@@ -728,50 +713,49 @@ Overfull \hbox (19.80946pt too wide) in paragraph at lines 453--454
 [][] 
  []
 
-[23 <C:/Artur/University/Diploma/wm and GUI primitives/pictures/filledCalc.png>
-] [24]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 484
+[22 <E:/wm and GUI primitives/pictures/filledCalc.png>] [23]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 483
 .
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Underfull \hbox (badness 2608) in paragraph at lines 490--492
+Underfull \hbox (badness 2608) in paragraph at lines 489--491
 []\T2A/cmr/m/n/14.4 Артур Гу-ди-ев. Ре-а-ли-за-ция гра-фи-че-ской ча-сти ин-тер
 -пре-та-то-ра язы-ка
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
-[25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
-
-("C:\Artur\University\Diploma\wm and GUI primitives\wm and GUI primitives.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 516.
+[24]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 516.
+ ("E:\wm and GUI primitives\wm and GUI primitives.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 516.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 516.
 Package rerunfilecheck Info: File `wm*and*GUI*primitives.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 513.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 516.
  ) 
 Here is how much of TeX's memory you used:
- 14341 strings out of 493921
- 200431 string characters out of 3144879
- 288698 words of memory out of 3000000
- 17407 multiletter control sequences out of 15000+200000
+ 14336 strings out of 493921
+ 200096 string characters out of 3144879
+ 288662 words of memory out of 3000000
+ 17401 multiletter control sequences out of 15000+200000
  12642 words of font info for 29 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,8n,32p,1726b,640s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lat
-t1440.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi
-600\lati1440.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-
-t2a\dpi600\labx1728.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\user\AppData\Local\MiKTeX\2.9\f
-onts\pk\ljfour\lh\lh-t2a\dpi600\larm2488.pk> <C:\Users\user\AppData\Local\MiKTe
-X\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\user\AppData\Loca
+ <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lat
+t1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi
+600\lati1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-
+t2a\dpi600\labx1728.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\lh\lh-t2a\dpi600\labx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\fonts\pk
+\ljfour\lh\lh-t2a\dpi600\labx2074.pk> <C:\Users\User\AppData\Local\MiKTeX\2.9\f
+onts\pk\ljfour\lh\lh-t2a\dpi600\larm2488.pk> <C:\Users\User\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <C:\Users\User\AppData\Loca
 l\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk><C:/Program Files (x8
 6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "wm and GUI primitives.pdf" (25 pages, 361880 bytes).
+Output written on "wm and GUI primitives.pdf" (24 pages, 358637 bytes).
 PDF statistics:
- 816 PDF objects out of 1000 (max. 8388607)
+ 807 PDF objects out of 1000 (max. 8388607)
  79 named destinations out of 1000 (max. 500000)
  264 words of extra memory for PDF output out of 10000 (max. 10000000)
 
